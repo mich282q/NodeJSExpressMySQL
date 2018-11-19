@@ -17,12 +17,13 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andracs/NodeJSExpressMySQLWorld.git"
+    "url": "git+https://github.com/mich282q/NodeJSExpressMySQL"
   },
-  "author": "András Ács acsandras@gmail.com",
+  "author": "Michael Trans",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andracs/NodeJSExpressMySQLWorld/issues"
+    "url": "https://github.com/mich282q/NodeJSExpressMySQL/issues"
   },
-  "homepage": "https://github.com/andracs/NodeJSExpressMySQLWorld#readme"
+  "homepage": "https://github.com/mich282q/NodeJSExpressMySQL/blob/master/README.md",
+  "devDependencies": {}
 }
