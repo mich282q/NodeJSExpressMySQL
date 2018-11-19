@@ -1,0 +1,13 @@
+<h1 class="shadow p-3 mb-5 bg-white rounded">{{title}}</h1>
+<table class="table table-dark">
+  <tbody>
+    
+{{#each world}}
+    {{#with this}}
+        <tr><td>name {{fname}}, {{lname}}, alder {{age}}.</td></tr>
+    {{/with}}
+{{/each}}
+  </tbody>
+</table>
+
+<!-- {{raw}} -->
